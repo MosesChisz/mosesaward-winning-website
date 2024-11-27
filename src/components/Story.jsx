@@ -15,6 +15,7 @@ const Story = () => {
         rotateX: 0, 
         rotateY: 0,
         ease: 'power1.inOut'
+        
     })
   }
 
